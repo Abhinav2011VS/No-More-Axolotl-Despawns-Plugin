@@ -1,0 +1,6 @@
+name: NoMoreAxolotlDespawns
+version: '4.0'
+main: net.abhinav.no_more_axolotl_despawns.NoMoreAxolotlDespawns
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]
